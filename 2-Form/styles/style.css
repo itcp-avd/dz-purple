@@ -1,0 +1,37 @@
+main {
+    background-color: #FFFEFE;
+}
+
+h1 {
+    color: #333333;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    color: #666666;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+a {
+    color: #089FE0;
+}
+
+input {
+    font-style: italic;
+    background-color: #F5F5F5;
+}
+
+div {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+button {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #089FE0;
+}
